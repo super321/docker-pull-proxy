@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+ollama/ollama:0.1.43 registry.cn-hangzhou.aliyuncs.com/zqw-public/ollama/ollama:0.1.43
