@@ -1,1 +1,1 @@
-ollama/ollama:0.1.43 registry.cn-hangzhou.aliyuncs.com/zqw1792/ollama/ollama:0.1.43
+ollama/ollama:0.1.43 registry.cn-hangzhou.aliyuncs.com/zqw1792/ollama:0.1.43
