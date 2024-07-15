@@ -1,1 +1,1 @@
-ibm-semeru-runtimes:open-8u412-b08-jre registry.cn-hangzhou.aliyuncs.com/zqw1792/ibm-semeru-runtimes:open-8u412-b08-jre
+ghcr.io/open-webui/open-webui:cuda registry.cn-hangzhou.aliyuncs.com/zqw1792/open-webui:cuda
